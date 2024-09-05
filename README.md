@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redoyhossin&label=Profile%20views&color=0e75b6&style=flat" alt="redoyhossin" /> </p>
 
-- 🔭 I’m currently working on [Public-Hospital](https://redoyhossin.github.io/Public-Hospital/)
+- 🔭 I’m currently working on [Public-Hospital](https://curious-daffodil-edee72.netlify.app/)
 
-- 🌱 I’m currently learning **PHP/laravel/web developer**
+- 🌱 I’m currently learning **wordpress/web developer**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eaf96.web.app/](https://portfolio-eaf96.web.app/)
 
-- 💬 Ask me about **html/Css/Bootstrap/javaScriptReactJs**
+- 💬 Ask me about **html/Css/Bootstrap/javaScript ReactJs**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/144AuTZsju4DjWyWjmxipZGDoGKvJhEiH/view?usp=sharing](https://drive.google.com/file/d/144AuTZsju4DjWyWjmxipZGDoGKvJhEiH/view?usp=sharing)
 
