@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redoyhossin&label=Profile%20views&color=0e75b6&style=flat" alt="redoyhossin" /> </p>
 
-- 🔭 I’m currently working on [Portfolio-use-bootstrap(https://curious-daffodil-edee72.netlify.app/)
-
 - 🌱 I’m currently learning **wordpress/web developer**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-eaf96.web.app/](https://portfolio-eaf96.web.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-eaf96.web.app/](https://portfolio-eaf96.web.app/)You can view the old portfolio for now. The portfolio update is currently in progress. Once the update is complete, it will be replaced with the new version. 
 
 - 💬 Ask me about **html/Css/Bootstrap/javaScript ReactJs**
 
