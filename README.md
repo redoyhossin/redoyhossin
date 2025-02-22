@@ -10,6 +10,7 @@
 - 💬 Ask me about **html/Css/Bootstrap/javaScript ReactJs**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/144AuTZsju4DjWyWjmxipZGDoGKvJhEiH/view?usp=sharing](https://drive.google.com/file/d/144AuTZsju4DjWyWjmxipZGDoGKvJhEiH/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xzzZdCbh_eauYuEw7RzS12MKCvQfYKWS/view?usp=sharing](https://drive.google.com/file/d/1xzzZdCbh_eauYuEw7RzS12MKCvQfYKWS/view?usp=sharing)
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
